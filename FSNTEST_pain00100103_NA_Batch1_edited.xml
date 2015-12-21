@@ -2,7 +2,7 @@
 <Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.001.001.03" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <CstmrCdtTrfInitn>
     <GrpHdr>
-      <MsgId>18966</MsgId>
+      <MsgId>18967</MsgId>
       <CreDtTm>2013-11-25T00:00:00</CreDtTm>
       <NbOfTxs>11</NbOfTxs>
       <CtrlSum>208165.97</CtrlSum>
